@@ -1,3 +1,3 @@
-FROM docker.n8n.io/n8nio/n8n:stable
+FROM n8nio/n8n:stable
 
 EXPOSE 5678
